@@ -1,9 +1,9 @@
 ========================================================================
-             CRESCENDO / VITAMUSIC - SYNC & DOWNLOAD SERVER
+                     CRESCENDO - SYNC & DOWNLOAD SERVER
 ========================================================================
 
 This server is designed to sync music files and perform online searches
-and downloads for the Crescendo / VitaMusic app on PlayStation Vita.
+and downloads for the Crescendo app on PlayStation Vita.
 
 ------------------------------------------------------------------------
 1. PREREQUISITES
@@ -22,7 +22,7 @@ Before running the server, make sure you have the following installed:
 ------------------------------------------------------------------------
 2. QUICK START (WINDOWS)
 ------------------------------------------------------------------------
-1. Double-click the file "VitaMusic-Servidor.bat".
+1. Double-click the file "Crescendo-Servidor.bat".
 2. The server will start and prompt you with its LAN IP address and port 
    (default is 8787).
 3. On your PlayStation Vita app, configure the IP and port to match 
