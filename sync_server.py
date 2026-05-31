@@ -31,7 +31,7 @@ ALLOWED_EXTS = (".mp3", ".flac", ".wav", ".ogg")
 # ---------------------------------------------------------------------------
 # Busqueda + descarga online (iTunes -> Spotify fallback -> SpotiFLAC)
 # ---------------------------------------------------------------------------
-HTTP_UA = "VitaMusic-sync/1.0"
+HTTP_UA = "Crescendo-sync/1.0"
 
 # Credenciales opcionales de Spotify (solo para el fallback de busqueda).
 # Se leen de variables de entorno o de spotify.cfg junto a este script.
