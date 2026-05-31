@@ -13,3 +13,7 @@ Spotify.cfg
 # Editor configs
 .vscode/
 .idea/
+
+# Distribution archives
+Crescendo-Servidor.zip
+
