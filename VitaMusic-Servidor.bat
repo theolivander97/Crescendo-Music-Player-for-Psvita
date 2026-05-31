@@ -1,6 +1,6 @@
 @echo off
 chcp 65001 >nul
-title VitaMusic - Servidor (Sync + Buscador online)
+title Crescendo - Servidor (Sync + Buscador online)
 cd /d "%~dp0"
 
 REM ============================================================
