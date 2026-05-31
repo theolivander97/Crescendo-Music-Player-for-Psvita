@@ -1,4 +1,4 @@
-# Crescendo v1.0.0 - Initial Release (Servidor & VPK)
+# Crescendo v1.5.0 - Servidor & VPK
 
 ¡Bienvenido a la versión oficial de **Crescendo**! Esta entrega incluye el instalador para la PlayStation Vita y el paquete del servidor de sincronización para PC listo para su distribución.
 
