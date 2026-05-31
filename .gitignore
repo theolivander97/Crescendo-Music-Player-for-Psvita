@@ -1,0 +1,15 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Sensitive local configurations
+Spotify.cfg
+
+# Editor configs
+.vscode/
+.idea/
