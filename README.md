@@ -1,6 +1,6 @@
-# Crescendo - Servidor de Sincronización (VitaMusic)
+# Crescendo - Servidor de Sincronización
 
-Este proyecto es un servidor de sincronización y buscador de música local/online diseñado para la aplicación **Crescendo** / **VitaMusic** en la PlayStation Vita. Permite buscar, descargar canciones de alta calidad en la red local y transmitirlas/sincronizarlas directamente a la consola.
+Este proyecto es un servidor de sincronización y buscador de música local/online diseñado para la aplicación **Crescendo** en la PlayStation Vita. Permite buscar, descargar canciones de alta calidad en la red local y transmitirlas/sincronizarlas directamente a la consola.
 
 ---
 
@@ -30,8 +30,8 @@ Este proyecto es un servidor de sincronización y buscador de música local/onli
 ## 🛠️ Uso en Windows
 
 1. Descarga el repositorio o clónalo.
-2. Edita `VitaMusic-Servidor.bat` si deseas cambiar el puerto por defecto (`8787`) o asignar una carpeta de música predeterminada en `MUSIC_DIR`.
-3. Ejecuta **`VitaMusic-Servidor.bat`** haciendo doble clic.
+2. Edita `Crescendo-Servidor.bat` si deseas cambiar el puerto por defecto (`8787`) o asignar una carpeta de música predeterminada en `MUSIC_DIR`.
+3. Ejecuta **`Crescendo-Servidor.bat`** haciendo doble clic.
 4. Conecta tu PlayStation Vita al servidor ingresando la IP de tu PC y el puerto correspondiente en la aplicación.
 
 > [!TIP]

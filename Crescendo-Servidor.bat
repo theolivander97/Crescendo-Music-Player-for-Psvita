@@ -35,7 +35,7 @@ if errorlevel 1 (
 REM Verificar que el servidor exista junto a este .bat
 if not exist "%~dp0sync_server.py" (
     echo [ERROR] No se encontro sync_server.py junto a este archivo .bat.
-    echo Coloca VitaMusic-Servidor.bat en la misma carpeta que sync_server.py
+    echo Coloca Crescendo-Servidor.bat en la misma carpeta que sync_server.py
     echo.
     pause
     exit /b 1
